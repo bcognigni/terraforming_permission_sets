@@ -14,7 +14,7 @@ cd terraform
 terraform init
 ```
 
-Finally we have to runing our sh file to import permission sets to terraform.tfstate file
+Finally we have to running our sh file to import permission sets to terraform.tfstate file
 ```sh
 sh terraform_import_permission_sets.sh
 ```
